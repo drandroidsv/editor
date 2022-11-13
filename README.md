@@ -19,7 +19,9 @@
 </p>
 
 **Editor** es un texto que te permite crear post, escritura de lenguaje y mucho mas
-
+https://drandroidsv.github.io/editor/
+<p align="center">
+<a href="mailto:agdala@hacksal.me"><img title="Web" src="https://img.shields.io/badge/Web-https://drandroidsv.github.io/editor/-blueviolet?style=for-the-badge&logo=web"></a>
 
 ## Distribuciones compatibles con editor simple:
 
