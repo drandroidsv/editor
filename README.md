@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="mailto:agdala@hacksal.me"><img title="Correo" src="https://img.shields.io/badge/Correo-master.hdez@gmail.com-blueviolet?style=for-the-badge&logo=gmai"></a>
+<a href="mailto:agdala@hacksal.me"><img title="Correo" src="https://img.shields.io/badge/Correo-Agdala@hacksal.me-blueviolet?style=for-the-badge&logo=gmai"></a>
 <a href="https://t.me/joinchat/AAAAAETqm9bQH0uFopDJsQ"><img title="Chat" src="https://img.shields.io/badge/CHAT-TELEGRAM-blue?style=for-the-badge&logo=telegram"></a>
 <a href="https://twitter.com/MASTERSV19"><img title="Twitter" src="https://img.shields.io/badge/CHAT-TWITTER-blue?style=for-the-badge&logo=twitter"></a>
 </p>
